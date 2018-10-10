@@ -13,7 +13,7 @@ class stu():
             pass
 
         def search(self):
-            str = "姗姗来迟"
+            str = "66666666"
             print(str)
 
 
